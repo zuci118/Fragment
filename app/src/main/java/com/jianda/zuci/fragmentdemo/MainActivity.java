@@ -2,7 +2,7 @@ package com.jianda.zuci.fragmentdemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//this is a test
 public class MainActivity extends AppCompatActivity implements ImageListFragment.Callbacks{
 
 
